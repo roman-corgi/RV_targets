@@ -4,6 +4,8 @@
 *LatestRVmeasurements.csv*  defines astrophysically measured
 quantities of nearby RV exoplanets of interest to WFIRST.
 
+*LatestRVmeasurements.csv.header* defines the units of each column in [ecsv](https://github.com/astropy/astropy-APEs/blob/master/APE6.rst) format. 
+
 This list was originally compiled by Nikole Lewis (STScI) for the
  WFIRST CGI SITs.
 	
