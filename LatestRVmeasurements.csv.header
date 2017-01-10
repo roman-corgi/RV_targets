@@ -11,7 +11,7 @@
 # - {name: T0, unit: d, datatype: float64}
 # - {name: V, unit: mag, datatype: float64}
 # - {name: DIST, unit: pc, datatype: float64}
-# - {name: Notes, datatype: string}
 # - {name: ADSbibcode, datatype: string}
+# - {name: Notes, datatype: string}
 # - {name: hip_name, datatype: string}
 # delimiter: ','
