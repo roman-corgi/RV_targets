@@ -1,0 +1,16 @@
+# %ECSV 0.9
+# ---
+# datatype:
+# - {name: NAME, datatype: string}
+# - {name: HD, datatype: string}
+# - {name: MSINI, unit: jupiterMass, datatype: float64}
+# - {name: A, unit: AU, datatype: float64}
+# - {name: PER, unit: d, datatype: float64}
+# - {name: ECC, datatype: float64}
+# - {name: OM, unit: deg, datatype: float64}
+# - {name: T0, unit: d, datatype: float64}
+# - {name: V, unit: mag, datatype: float64}
+# - {name: DIST, unit: pc, datatype: float64}
+# - {name: Notes, datatype: string}
+# - {name: hip_name, datatype: string}
+# delimiter: ','
