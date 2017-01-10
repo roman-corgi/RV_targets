@@ -10,7 +10,7 @@ This list was originally compiled by Nikole Lewis (STScI) for the
  WFIRST CGI SITs.
 	
 For ease of viewing on github the [ecsv](https://github.com/astropy/astropy-APEs/blob/master/APE6.rst) header and the raw table are
-stored as seperate files.
+stored as separate files.
 
 Use this snippet to load as an [astropy](http://www.astropy.org) table with units:
 
