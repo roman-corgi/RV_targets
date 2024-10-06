@@ -1,5 +1,6 @@
-# nearby_rv_exoplanets
+# nearby_rv_exoplanets (deprecated)
 
+## Note: this repository is no longer actively maintained and does not represent the latest Roman Coronagraph RV target list
 
 [LatestRVmeasurements.csv](LatestRVmeasurements.csv)  defines astrophysically measured
 quantities of nearby RV exoplanets of interest to WFIRST.
